@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tuba_pojo" />
+        <module name="tuba_common_web" />
+        <module name="tuba_common_service" />
+        <module name="tuba_service_goods" />
+        <module name="tuba_common" />
+        <module name="tuba_web_manager" />
+        <module name="tuba_interface" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
